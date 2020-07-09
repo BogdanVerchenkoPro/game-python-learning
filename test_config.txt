@@ -1,0 +1,6 @@
+gamemode = C;
+world_name = testing_world;
+xp_players = 0/0;
+max_tps = 10;
+max_players = infinity;
+spawn_radius = 0;
